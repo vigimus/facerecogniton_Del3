@@ -12,7 +12,7 @@ import Clarifai from 'clarifai';
 
 //Behövs så att Clarifai apn fungerar som den ska
 const app = new Clarifai.app({
-apiKey: '73819cb0c7e640e8b82e30c4ecaf05d3'
+apiKey: 'Din API Nyckel'
 });
 
 class App extends Component {
